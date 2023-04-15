@@ -33,4 +33,4 @@ Please refer to the LICENSE in the repo.
 
 ## Link
 
-https://aleoverseau.github.io
+https://github.com/ALeoVerseau/Work-Day-Scheduler
